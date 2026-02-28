@@ -14,7 +14,11 @@ A Next.js app for discovering and tracking the best podcast episodes, with commu
 
 ### [NutriData](https://github.com/Mohamed3on/NutriData) — Nutritional Insights for Online Grocery Shopping
 
-Chrome extension (170+ commits) that surfaces protein-per-euro, NutriScore, and other key nutritional metrics directly on product pages and search results on Rewe.de and Amazon. Makes healthy choices effortless.
+Chrome extension that surfaces protein-per-euro, NutriScore, and other key nutritional metrics directly on product pages and search results on Rewe.de and Amazon. Makes healthy choices effortless.
+
+### [Tribe Finder](https://github.com/Mohamed3on/Tribe-Finder) — Find Where Your Twitter Friends Are Based
+
+Free Chrome extension that maps the locations of people you follow on Twitter, helping you find your tribe anywhere in the world.
 
 ## Browser Extensions — Better Scores Everywhere
 
