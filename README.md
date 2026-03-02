@@ -16,6 +16,10 @@ A Next.js app for discovering and tracking the best podcast episodes, with commu
 
 Chrome extension that surfaces protein-per-euro, NutriScore, and other key nutritional metrics directly on product pages and search results on Rewe.de and Amazon. Makes healthy choices effortless.
 
+### [Flathunter](https://github.com/Mohamed3on/flathunter) — Automated Flat Hunting in Germany
+
+Bot that crawls ImmoScout24, WG-Gesucht, and Kleinanzeigen for rental listings, filters by price/size/commute, scores them with Gemini AI, and auto-contacts landlords. Runs as a Cloud Run job with Telegram notifications.
+
 ### [Tribe Finder](https://github.com/Mohamed3on/Tribe-Finder) — Find Where Your Twitter Friends Are Based
 
 Free Chrome extension that maps the locations of people you follow on Twitter, helping you find your tribe anywhere in the world.
