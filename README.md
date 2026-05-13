@@ -28,18 +28,9 @@ Bot that crawls ImmoScout24, WG-Gesucht, and Kleinanzeigen for rental listings, 
 
 Free Chrome extension that maps the locations of people you follow on Twitter, helping you find your tribe anywhere in the world.
 
-### [IPTV Preview](https://github.com/Mohamed3on/iptv-preview) — Web-Based IPTV Viewer with EPG
-
-Loads M3U playlists and XMLTV program guides in the browser. Handles 20k+ channels with virtualization, off-thread EPG parsing in a Web Worker, and HLS/MPEG-TS playback.
-
-### [X Pro List Remove](https://github.com/Mohamed3on/xpro-list-remove) — Better List Management for X Pro
-
-Chrome extension for X Pro (TweetDeck) that adds one-click list management buttons to every tweet and hides retweets in list columns so you only see original content from people you've curated.
-
 ## Other Projects
 
 - [**IMDb Top Titles**](https://github.com/Mohamed3on/IMDb-Top-Titles) — Script to rank IMDb titles by (likes - dislikes), scraping and processing large datasets
-- [**TripAdvisor Review Count**](https://github.com/Mohamed3on/tripAdvisor-number-of-reviews) — Shows review counts on TripAdvisor listings
 - [**Blog**](https://mohamed3on.com/) — Personal blog
 - [**YC Scraper**](https://github.com/Mohamed3on/yc-scraper) — Scrapes and structures Y Combinator company data
 
